@@ -1,0 +1,115 @@
+{
+    "personal_information": {
+      "name": "Divyansh Sinha",
+      "phone": "+91-8179983914",
+      "email": "ds4467@srmist.edu.in",
+      "address": {
+        "current": "Flat No. 1706, Tower 28, Paras Tierra, Sector 137, Noida, Uttar Pradesh, India - 201305",
+        "permanent": "Plot P88 P89 Praneeth Nature's Bounty, Shambhipur, Bowrampet, Medchal District, Hyderabad, Telangana, India - 500043"
+      },
+      "linkedIn": "https://www.linkedin.com/in/divyanshsinha2004",
+      "github": "https://github.com/CaptainDevon",
+      "personal_website": "https://linktr.ee/Divyansh_Sinha2004",
+      "date_of_birth": "09 Jan, 2004",
+      "languages_known": ["English", "Hindi"]
+    },
+    "skills": [
+      "C++",
+      "Python",
+      "MySQL",
+      "JavaScript",
+      "CSS",
+      "ReactJS",
+      "HTML",
+      "Java",
+      "C#",
+      "NodeJS",
+      "Machine Learning",
+      "Artificial Intelligence",
+      "MongoDB",
+      "Tkinter",
+      "Pandas",
+      "NumPy",
+      "Scikit-Learn"
+    ],
+    "brief_summary": "I am a B. Tech (Computer Science + Artificial Intelligence and Machine Learning) at SRM Institute of Science and Technology and I am very eager to learn, grow, and make a meaningful impact within a dynamic and forward-thinking organization. I have extensive hands-on experience in C++, Web Development Technologies - ReactJS, JavaScript/HTML/CSS NodeJS, Python. Detailed knowledge on OOPs and Data Structures & Algorithms, OS Concepts and DBMS. I am a keen learner - Did certifications in Machine Learning and workflows, Data Science, Various Courses on JavaScript and NodeJS Fundamentals, SOLID Development Principles.",
+    "education": [
+      {
+        "year": "2021 - 2025",
+        "institution": "SRM Institute of Science & Technology, Ghaziabad",
+        "degree": "B.Tech. - CSE - Artificial Intelligence & Machine Learning",
+        "cgpa": "9.06 / 10"
+      },
+      {
+        "year": "2021",
+        "institution": "DAV Public School, Kukkatpally, Hyderabad",
+        "qualification": "12th | CBSE",
+        "percentage": "77.40 / 100"
+      },
+      {
+        "year": "2019",
+        "institution": "Vignan Bo Tree School, Hyderabad",
+        "qualification": "10th | CBSE",
+        "percentage": "91.60 / 100"
+      }
+    ],
+    "awards_and_scholarships": [
+      "5th rank in Navratri Coding challenge organized by GDSC",
+      "5th rank in Research Summit organized by GDSC",
+      "Among top 2% who Qualified for Quarter Finals in Table Tennis"
+    ],
+    "projects": [
+      {
+        "name": "Diabetes Predictor",
+        "duration": "13 Jun, 2024 - 24 Jun, 2024",
+        "team_size": 1,
+        "skills": ["Python", "Machine Learning", "jupyter notebook", "sklearn"],
+        "project_link": "https://github.com/CaptainDevon/Machine-Learning-Workflow",
+        "description": "This is a supervised Machine Learning project that can be used to predict diabetes in a patient based on the response of some parameters that is fed through an Excel. Gaussian Naive-Bayes model is used for processing the data and making predictions."
+      },
+      {
+        "name": "Website Component Designs in React",
+        "duration": "03 May, 2024 - 05 May, 2024",
+        "team_size": 1,
+        "skills": ["HTML5", "JavaScript", "ReactJS", "TailwindCSS", "CSS", "Vite", "Visual Studio"],
+        "project_link": "https://react-website-gamma-blond.vercel.app/",
+        "description": "The project is to develop various front-end components that can be used to integrate into a website. This was to enhance the learning of React JS for Web Development. In this React JS was used for designing the front-end components, Tailwind CSS. The Vite framework was used as a build tool. The Single Page application had features for user interaction and compatibility with different Viewports (Mobile, Windows, etc.)"
+      },
+      {
+        "name": "My Picture Store Site",
+        "duration": "15 Feb, 2024 - 21 Feb, 2024",
+        "team_size": 1,
+        "skills": ["Node.js", "HTML", "CSS", "MongoDB", "Javascript"],
+        "project_link": "https://image-scenary-app.onrender.com/",
+        "description": "This project is meant for the user to maintain their Snaps and Pictures of memories they have captured in past and want to securely store on a website. This offers similar capabilities found on the photos module in the Facebook application. This is a Client-Server application with Mongo DB/NodeJs as a back-end server and JavaScript/HTML/CSS Front End. It secures the user data (pictures) through a secure login module."
+      },
+      {
+        "name": "Indian Premier League 2020 Statistics",
+        "duration": "09 Sep, 2020 - 14 Oct, 2020",
+        "team_size": 1,
+        "skills": ["Python", "Tkinter", "Matplotlib", "Pandas"],
+        "description": "This application stores and presents the data about the Cricket IPL Tournament Played in 2020 and provides information about all the teams, matches played, Match scores, Match awards, Individual records, Relational analysis of teams using Graphs, etc. The application is built by using Python using the interface provided through Tkinter, Pandas. Matplotlib was used for Graphical Visualization for Analysis."
+      }
+    ],
+    "achievements": [
+      "Achieved below 50th rank in International Mathematics Olympiad",
+      "Represented my school in 'Sports for All' fest"
+    ],
+    "assessments_certifications": [
+      {
+        "name": "Database Management Systems",
+        "aggregate": "63 / 100",
+        "skills": ["Database", "MySQL", "SQL Server Management Studio"],
+        "description": "This course teaches the concepts of databases and its applications with implementation by renowned professor from IIT Kharagput."
+      },
+      {
+        "name": "Introduction To Machine Learning-IIT KGP",
+        "aggregate": "60 / 100",
+        "skills": ["Machine Learning", "Python"],
+        "description": "This course gives a detailed introduction to Machine Learning and great knowledge provided by the renowned professor by IITKGP."
+      }
+    ],
+    "extra_curricular_activities": ["Table Tennis", "Badminton"],
+    "personal_interests_hobbies": ["Cricket", "Football", "Swimming", "Skating", "Travelling", "Music/Movies"]
+  }
+  
